@@ -1,0 +1,286 @@
+WEBVTT
+
+1
+00:00:13.169 --> 00:00:20.640
+Hello, man, myself, Neil Patel and our group has worked on a project talk management system.
+
+2
+00:00:20.640 --> 00:00:25.800
+1st of all, I will briefly explain to, you.
+
+3
+00:00:25.800 --> 00:00:30.030
+Of a project in this app in this.
+
+4
+00:00:30.030 --> 00:00:36.179
+In this app a user.
+
+5
+00:00:36.179 --> 00:00:42.750
+And it will make, we'll create account basically our target audiences.
+
+6
+00:00:42.750 --> 00:00:46.259
+Soft keeper or any form or any.
+
+7
+00:00:46.259 --> 00:00:50.939
+Agency owner or a person dealing with the stock.
+
+8
+00:00:50.939 --> 00:00:54.299
+Uh, he he can manage stock.
+
+9
+00:00:54.299 --> 00:00:57.780
+Oh, no, it.
+
+10
+00:00:57.780 --> 00:01:01.469
+1st of all any farmer will create account and then.
+
+11
+00:01:01.469 --> 00:01:05.459
+Log in to the app, and then he will be able to add stock.
+
+12
+00:01:05.459 --> 00:01:10.620
+You stop a filter stuff by integrity brand name.
+
+13
+00:01:10.620 --> 00:01:15.329
+Or by supplier, but user will also be able to dispatch for.
+
+14
+00:01:15.329 --> 00:01:18.510
+Also able to view the dispatch.
+
+15
+00:01:18.510 --> 00:01:22.409
+The stock used that basic the concept used.
+
+16
+00:01:22.409 --> 00:01:27.299
+In the base are in our physical concept, enter.
+
+17
+00:01:27.299 --> 00:01:31.439
+Interfaces inheritance and use of keywords, like.
+
+18
+00:01:31.439 --> 00:01:35.459
+If we can sign and then flashes object methods.
+
+19
+00:01:35.459 --> 00:01:38.849
+And we have, and also in our classes.
+
+20
+00:01:38.849 --> 00:01:42.599
+So 1st of all, I am going to explain the.
+
+21
+00:01:42.599 --> 00:01:45.780
+This color is this is specifically for.
+
+22
+00:01:45.780 --> 00:01:49.500
+Giving the output in in some color.
+
+23
+00:01:49.500 --> 00:01:53.099
+Now will come to the user class.
+
+24
+00:01:53.099 --> 00:02:00.569
+In user, plus we have defined variable user name, password our form.
+
+25
+00:02:00.569 --> 00:02:04.950
+And this is the concept for the last.
+
+26
+00:02:04.950 --> 00:02:08.639
+Which may be committed.
+
+27
+00:02:08.639 --> 00:02:14.129
+Or user name, password ID, idea of form name of a.
+
+28
+00:02:15.240 --> 00:02:19.080
+I'll use that on any.
+
+29
+00:02:20.099 --> 00:02:25.650
+So, now, coming to the class minutes, this class management extends the user.
+
+30
+00:02:25.650 --> 00:02:31.740
+And then implement this color and in.
+
+31
+00:02:31.740 --> 00:02:36.449
+In user, plus I homemade check talks talk.
+
+32
+00:02:36.449 --> 00:02:43.860
+In our class, it is in our class in the in this class in a class of this class.
+
+33
+00:02:43.860 --> 00:02:50.039
+And also make object of also make this better off this object.
+
+34
+00:02:51.240 --> 00:02:55.680
+And this is the constructor for this manage class.
+
+35
+00:02:57.449 --> 00:03:07.139
+This is the private in our class talk to our or checkout this class this class will basically store basically a store or.
+
+36
+00:03:07.139 --> 00:03:11.879
+Or 1 stock can take, for example, or.
+
+37
+00:03:11.879 --> 00:03:19.830
+A user, or any form will have, we'll be having go down and we'll be storing 50 to 40 to 50.
+
+38
+00:03:19.830 --> 00:03:23.250
+And this is for starting that 40 or 50 elements.
+
+39
+00:03:24.360 --> 00:03:32.669
+In this class object will be of this class to starting to store the category item. Name supplier. How many items are.
+
+40
+00:03:32.669 --> 00:03:38.520
+Total value of this stock, and this is the construct that image will initialize and.
+
+41
+00:03:38.520 --> 00:03:47.129
+You evaluate all these variables now, coming to the entering lock stock whenever.
+
+42
+00:03:47.129 --> 00:03:53.639
+And then there were some, some object will call and then.
+
+43
+00:03:53.639 --> 00:03:57.419
+We will, we will take input every item name.
+
+44
+00:03:57.419 --> 00:04:00.659
+Company name, supplier, number of items.
+
+45
+00:04:00.659 --> 00:04:06.419
+Price if user will enter a number of item list, we will, we will retake it.
+
+46
+00:04:06.419 --> 00:04:10.590
+And it will, so we'll comments.
+
+47
+00:04:10.590 --> 00:04:14.759
+Please enter valid quantity. Same for the price.
+
+48
+00:04:14.759 --> 00:04:18.240
+Please enter valid will take very price then.
+
+49
+00:04:19.500 --> 00:04:22.949
+And now coming to the view, stop.
+
+50
+00:04:22.949 --> 00:04:27.509
+This method, especially for.
+
+51
+00:04:27.509 --> 00:04:32.728
+We're showing that the current stock in the go down.
+
+52
+00:04:32.728 --> 00:04:37.588
+What to place and.
+
+53
+00:04:37.588 --> 00:04:40.619
+This will source top category and.
+
+54
+00:04:40.619 --> 00:04:45.088
+Item name company, name, supplier.
+
+55
+00:04:46.798 --> 00:04:51.478
+And we'll stop by category is the same as a matter but.
+
+56
+00:04:51.478 --> 00:04:55.588
+But 1 difference is that the only.
+
+57
+00:04:57.418 --> 00:05:00.418
+The only stop and will be so.
+
+58
+00:05:00.418 --> 00:05:06.389
+So, on the category with user and touch a user.
+
+59
+00:05:07.889 --> 00:05:12.988
+And this is for the same, there's talk of.
+
+60
+00:05:12.988 --> 00:05:17.519
+Based on the email, the stock of particular item.
+
+61
+00:05:17.519 --> 00:05:21.178
+Will be shown in this matter, you item.
+
+62
+00:05:21.178 --> 00:05:26.158
+Now, coming to the dispatch is pet ID matter issues.
+
+63
+00:05:27.689 --> 00:05:32.488
+This is for dispatching desktop is betting the stuff.
+
+64
+00:05:32.488 --> 00:05:36.449
+So, if user ID is will be the greater, then.
+
+65
+00:05:36.449 --> 00:05:42.749
+Then I'll talk item, install guide is the threshold of of total ID.
+
+66
+00:05:42.749 --> 00:05:49.228
+Present in the stock inside, they will be greater than than and stock tech stock will be not.
+
+67
+00:05:49.228 --> 00:05:56.069
+They're not in in program, if our ID will be less than 0T and also I will be out of range.
+
+68
+00:05:56.069 --> 00:06:02.249
+And if if user will and want to spend more than the current or present.
+
+69
+00:06:02.249 --> 00:06:06.088
+Number of quantity, or will be less than 0.
+
+70
+00:06:06.088 --> 00:06:09.778
+More than more than present quantity then.
+
+71
+00:06:09.778 --> 00:06:14.369
+So, the message.
+
